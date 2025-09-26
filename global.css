@@ -1,0 +1,54 @@
+/* RESET */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    position: relative;
+    top: 100px;
+    left: right;
+    width: 400px;
+    height: 400px;
+    background: rgb(179, 114, 240);
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background: black
+}
+
+.bola01{
+    position: absolute;
+    top: 160px;
+    right: 150px;;
+    width: 400px;
+    height: 400px;
+    background: rgb(112, 185, 224);
+    border-radius: 400px ;
+
+}
+
+.bola02{
+    position: absolute;
+    top: 30px;
+    right: 120px;
+    width: 400px;
+    height: 400px;
+    background: rgb(156, 68, 197);
+    border-radius: 400px;
+}
+
+.bola03{
+    position: absolute;
+    top: 150px;
+    right: 350px;
+    width: 400px;
+    height: 400px;
+    background: rgb(24, 80, 135);
+    border-radius: 400px;
+}
